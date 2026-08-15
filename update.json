@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "name": "Total Live Chat 1.3.1",
-  "notes": "Painel de espectadores em uma única linha horizontal (Espectadores online | YouTube: X | Twitch: X | Kick: X | TikTok: X | TOTAL: X).\nTítulo \"Chat ao vivo\" acima da caixa de mensagens.",
+  "version": "1.3.2",
+  "name": "Total Live Chat 1.3.2",
+  "notes": "Painel de espectadores: plataformas agrupadas após o título, com o total alinhado à direita.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
