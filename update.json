@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "name": "Total Live Chat 1.3.5",
-  "notes": "Licença reforçada: o programa só inicia após a autorização confirmada, e a tela de ativação volta a bloquear automaticamente se o período de teste expirar durante o uso.\nPeríodo de teste mais seguro: não é mais possível \"resetar\" os 3 dias apagando arquivos ou chaves do registro.\nNovo botão \"Novidades\" no topo: mostra todas as atualizações do programa, inclusive offline.",
+  "version": "1.3.6",
+  "name": "Total Live Chat 1.3.6",
+  "notes": "App mais leve: lista de fontes carregada uma única vez (antes era recalculada a cada clique).\nSom do chat com fila única: em picos de mensagens, sons em excesso são descartados para não travar e não acumular.\nJanela mais fluida em chats movimentados: cada ciclo processa no máximo 50 mensagens.\nCorreção no painel de espectadores: uma plataforma lenta não trava mais a atualização das demais.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
