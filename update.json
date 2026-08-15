@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "name": "Total Live Chat 1.3.3",
-  "notes": "Painel de espectadores: agora mostra espectadores ao vivo do TikTok (antes ficava sempre vazio).",
+  "version": "1.3.4",
+  "name": "Total Live Chat 1.3.4",
+  "notes": "Som do chat corrigido: agora toca toda vez (antes só tocava na primeira mensagem) e o arquivo de som é localizado uma única vez.\nTela de ativação de licença não congela mais o app ao validar online.\nApp abre mais rápido: a checagem de licença roda em segundo plano, sem travar a abertura.\nMenos consumo de CPU: o painel de status agora atualiza a cada 1s (antes 6,6x por segundo).\nPequenas otimizações internas (pool de threads nos espectadores, fila de mensagens do servidor, fim do pisca-pisca infinito do aviso de atualização).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
