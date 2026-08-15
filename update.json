@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
   "name": "Total Live Chat 1.2.0",
-  "notes": "- README: documenta release em um clique (publicar_tudo.bat)",
+  "notes": "Janela maior para caber todos os botões e painéis.\nCorreção no aviso do período de teste: não mostra mais \"0 dias restantes\" quando ainda há dias disponíveis.\nPopup de atualização com botões \"Baixar atualização\" e \"Depois\" (além do banner).\nPublicação de releases em um clique (publicar_tudo.bat) com notas geradas automaticamente.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
