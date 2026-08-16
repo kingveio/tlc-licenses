@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "name": "Total Live Chat 1.4",
-  "notes": "Overlay de espectadores: ícones das plataformas agora têm contorno branco e o contador aparece em branco.\nÍcone da Kick mudou para verde claro.",
+  "version": "1.4.1",
+  "name": "Total Live Chat 1.4.1",
+  "notes": "Overlay de espectadores: contorno dos ícones agora é preto com sombra preta (em vez de contorno branco).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
