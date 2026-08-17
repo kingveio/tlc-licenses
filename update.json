@@ -1,6 +1,6 @@
 {
   "version": "1.4.3",
   "name": "Total Live Chat 1.4.3",
-  "notes": "Atualizacao do Total Live Chat.",
+  "notes": "Chat do YouTube conecta muito mais rápido: o app agora detecta a live em cerca de 2 segundos (antes demorava mais de 30 segundos).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
