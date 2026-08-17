@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "name": "Total Live Chat 1.4.2",
-  "notes": "Corrigido o chat do YouTube que ficava preso em \"Conectando...\": o app não reconhecia o vídeo ao vivo e demorava muito para tentar conectar.",
+  "version": "1.4.3",
+  "name": "Total Live Chat 1.4.3",
+  "notes": "Atualizacao do Total Live Chat.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
