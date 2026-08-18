@@ -1,6 +1,6 @@
 {
-  "version": "1.4.11",
-  "name": "Total Live Chat 1.4.11",
-  "notes": "Chat de voz agora também ignora mensagens de comando (que começam com \"!\" ou \"/\"). O texto continua aparecendo normalmente no chat.",
+  "version": "1.4.12",
+  "name": "Total Live Chat 1.4.12",
+  "notes": "Chat de voz agora ignora emojis e emoticons: mensagens só com emojis não são faladas, e emojis no meio do texto são removidos da leitura. O texto continua aparecendo normalmente no chat.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
