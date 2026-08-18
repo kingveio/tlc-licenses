@@ -1,6 +1,6 @@
 {
-  "version": "1.4.10",
-  "name": "Total Live Chat 1.4.10",
-  "notes": "Chat de voz agora ignora mensagens de bots (ex.: Nightbot, StreamElements) e mensagens com links/endereços. O texto continua aparecendo normalmente no chat.",
+  "version": "1.4.11",
+  "name": "Total Live Chat 1.4.11",
+  "notes": "Chat de voz agora também ignora mensagens de comando (que começam com \"!\" ou \"/\"). O texto continua aparecendo normalmente no chat.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
