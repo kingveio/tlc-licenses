@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
-  "name": "Total Live Chat 1.4.9",
-  "notes": "Chat do TikTok corrigido: a biblioteca foi atualizada, então o app agora detecta a live corretamente. Quando você não estiver ao vivo, aparece uma mensagem clara \"aguardando live\" (tentativa a cada 60s) em vez de ficar conectando e desconectando.",
+  "version": "1.4.10",
+  "name": "Total Live Chat 1.4.10",
+  "notes": "Chat de voz agora ignora mensagens de bots (ex.: Nightbot, StreamElements) e mensagens com links/endereços. O texto continua aparecendo normalmente no chat.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
