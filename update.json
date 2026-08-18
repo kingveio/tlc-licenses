@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "name": "Total Live Chat 1.4.5",
-  "notes": "Corrigido o erro \"Estado de segurança inválido\" ao conectar a Twitch: o app não confundia mais respostas antigas do navegador com a autorização atual, e a mensagem de erro agora orienta o usuário.",
+  "version": "1.4.6",
+  "name": "Total Live Chat 1.4.6",
+  "notes": "Novo Chat de voz: o app le as mensagens do chat em voz alta. Use o botao Chat de voz e escolha a voz desejada no menu ao lado (usa as vozes instaladas no Windows).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
