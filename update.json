@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "name": "Total Live Chat 1.4.8",
-  "notes": "Chat de voz agora usa apenas as vozes neurais da Microsoft (gratuitas, via internet) — as vozes antigas do Windows foram removidas da lista.",
+  "version": "1.4.9",
+  "name": "Total Live Chat 1.4.9",
+  "notes": "Chat do TikTok corrigido: a biblioteca foi atualizada, então o app agora detecta a live corretamente. Quando você não estiver ao vivo, aparece uma mensagem clara \"aguardando live\" (tentativa a cada 60s) em vez de ficar conectando e desconectando.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
