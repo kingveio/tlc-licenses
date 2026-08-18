@@ -1,6 +1,6 @@
 {
-  "version": "1.4.7",
-  "name": "Total Live Chat 1.4.7",
-  "notes": "Chat de voz com vozes neurais: além das vozes do Windows, agora há dezenas de vozes naturais da Microsoft (gratuitas, via internet), em português, masculinas e femininas, e multilíngues.\nAs mensagens do chat são lidas sem dizer o nome de quem escreveu.",
+  "version": "1.4.8",
+  "name": "Total Live Chat 1.4.8",
+  "notes": "Chat de voz agora usa apenas as vozes neurais da Microsoft (gratuitas, via internet) — as vozes antigas do Windows foram removidas da lista.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
