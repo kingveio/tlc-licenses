@@ -1,6 +1,6 @@
 {
-  "version": "1.4.14",
-  "name": "Total Live Chat 1.4.14",
-  "notes": "Corrigido: nomes dos usuários do TikTok agora mostram o nome de perfil (nickname), igual ao chat do TikTok, em vez do nome de login (@usuario).",
+  "version": "1.4.15",
+  "name": "Total Live Chat 1.4.15",
+  "notes": "Status das plataformas: \"Erro\" genérico virou \"Sem config\" (quando falta OAuth/canal/usuário na config) ou \"Offline\" (quando a plataforma não está conectada). Motivo real continua no log do app.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
