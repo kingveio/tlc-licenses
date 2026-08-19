@@ -1,6 +1,6 @@
 {
-  "version": "1.4.16",
-  "name": "Total Live Chat 1.4.16",
-  "notes": "Corrigido status do TikTok: o app mostrava \"Offline\" mesmo conectado, porque o TikTok derruba o websocket periodicamente e o app desregistrava a plataforma a cada queda. Agora a reconexão é automática (3s) mantendo o status \"Conectado\", e \"Offline\" só aparece quando a live realmente não está no ar ou foi encerrada.\nCatálogo de vozes reduzido: agora só vozes em Português do Brasil (14), Japonês (2) e Português de Portugal (2).",
+  "version": "1.4.17",
+  "name": "Total Live Chat 1.4.17",
+  "notes": "Corrigido travamento da leitura em voz com emotes do YouTube/TikTok/Kick (a mensagem inteira era perdida e o chat de voz parava).\nCorreções de estabilidade e desempenho:\nJanela não congela mais ao checar a licença (a checagem agora roda em segundo plano).\nReconexão de plataformas sem duplicar conexões (evita mensagens repetidas ao religar um canal).\nChat de voz: ativação mais rápida e comunicação com a voz do Windows protegida contra travamentos.\nYouTube: leitura do chat mais leve (sem reprocessar a resposta inteira a cada 0,8s).\nContador de viewers não trava mais se o YouTube ficar lento na consulta.\nLimpeza geral de código e pequenas otimizações em todos os módulos.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
