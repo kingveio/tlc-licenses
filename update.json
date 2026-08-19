@@ -1,6 +1,6 @@
 {
-  "version": "1.4.13",
-  "name": "Total Live Chat 1.4.13",
-  "notes": "Chat de voz agora também ignora os emotes da Twitch (Kappa, KEKW, PogChamp etc.). O texto continua aparecendo normalmente no chat.",
+  "version": "1.4.14",
+  "name": "Total Live Chat 1.4.14",
+  "notes": "Corrigido: nomes dos usuários do TikTok agora mostram o nome de perfil (nickname), igual ao chat do TikTok, em vez do nome de login (@usuario).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
