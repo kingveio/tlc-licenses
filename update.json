@@ -1,6 +1,6 @@
 {
-  "version": "1.4.17",
-  "name": "Total Live Chat 1.4.17",
-  "notes": "Corrigido travamento da leitura em voz com emotes do YouTube/TikTok/Kick (a mensagem inteira era perdida e o chat de voz parava).\nCorreções de estabilidade e desempenho:\nJanela não congela mais ao checar a licença (a checagem agora roda em segundo plano).\nReconexão de plataformas sem duplicar conexões (evita mensagens repetidas ao religar um canal).\nChat de voz: ativação mais rápida e comunicação com a voz do Windows protegida contra travamentos.\nYouTube: leitura do chat mais leve (sem reprocessar a resposta inteira a cada 0,8s).\nContador de viewers não trava mais se o YouTube ficar lento na consulta.\nLimpeza geral de código e pequenas otimizações em todos os módulos.",
+  "version": "1.4.18",
+  "name": "Total Live Chat 1.4.18",
+  "notes": "Corrigidas as vozes: a Microsoft removeu vozes antigas do Edge (Júlio, Leila, Yara, etc.). O catálogo agora mostra apenas as 7 vozes que realmente funcionam hoje: Português do Brasil (Francisca, Antônio, Thalita), Japonês (Nanami, Keita) e Português de Portugal (Raquel, Duarte).\nTwitch: o token do chat agora é renovado automaticamente. Antes, o app não salvava o refresh token e você precisava gerar um novo a cada vez que o anterior expirava (regra da Twitch: token dura poucas horas). Agora o app salva o refresh token (válido ~30 dias) e renova sozinho ao abrir.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
