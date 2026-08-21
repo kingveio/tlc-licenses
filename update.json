@@ -1,6 +1,6 @@
 {
-  "version": "1.4.19",
-  "name": "Total Live Chat 1.4.19",
-  "notes": "Limpeza de código: removida variável `APP_DIR` não utilizada e bytecode órfão.\nCorrigidas dependências faltantes no requirements.txt (edge-tts, customtkinter).\nREADME atualizado com funcionalidades recentes (chat de voz, token Twitch automático).",
+  "version": "1.4.20",
+  "name": "Total Live Chat 1.4.20",
+  "notes": "Reconnect automático com backoff exponencial em todas as plataformas (evita reconexoes agressivas e loga tentativas).\nDiagnostico de conexao: botao \"Testar tudo\" verifica Twitch, YouTube, Kick, TikTok e Overlay em um clique.\nHotkeys: Ctrl+Shift+M (mutar/desmutar TTS), Ctrl+Shift+R (reconectar todas).\nModo compacto da janela (toggle nas configuracoes).\nCentralizado load_config()/save_config() em resources.py; unificados TWITCH_CLIENT_ID/SECRET em core.py.\nType hints adicionados em core.py, viewers.py, resources.py, connectors.\nPerformance: seen_ids (YouTube) usa deque(maxlen=50000); ViewersMonitor reutiliza ThreadPoolExecutor; cache 30s para validacao de token Twitch.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
