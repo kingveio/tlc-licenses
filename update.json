@@ -1,6 +1,6 @@
 {
-  "version": "1.4.23",
-  "name": "Total Live Chat 1.4.23",
-  "notes": "Overlay: tema agora sai do ouro - var(--accent) mantendo flipInX/fadeInRight em todos os temas.",
+  "version": "1.4.24",
+  "name": "Total Live Chat 1.4.24",
+  "notes": "Overlay: fundo e fonte voltam a responder ao menu - var(--bg)/var(--font-family) e sombra destravada.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
