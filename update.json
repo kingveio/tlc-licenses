@@ -1,6 +1,6 @@
 {
-  "version": "1.4.21",
-  "name": "Total Live Chat 1.4.21",
-  "notes": "Removido modo compacto (feedback: in├║til).",
+  "version": "1.4.22",
+  "name": "Total Live Chat 1.4.22",
+  "notes": "Overlay: efeito flip na caixa amarela do nome (flipInX) + fadeInRight em todos os temas. Cache do overlay zerado a cada inicializacao. Compatibilidade CEF do OBS.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
