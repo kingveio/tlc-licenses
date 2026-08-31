@@ -1,6 +1,6 @@
 {
-  "version": "1.4.24",
-  "name": "Total Live Chat 1.4.24",
-  "notes": "Overlay: fundo e fonte voltam a responder ao menu - var(--bg)/var(--font-family) e sombra destravada.",
+  "version": "1.4.25",
+  "name": "Total Live Chat 1.4.25",
+  "notes": "Overlay: nova opcao Cor da fonte no Visual do chat - escolha a cor do texto (seletor de cor ou #rrggbb). Vazio = segue o tema.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
