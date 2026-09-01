@@ -1,6 +1,6 @@
 {
-  "version": "1.4.29",
-  "name": "Total Live Chat 1.4.29",
-  "notes": "Interface: aba Chat redesenhada - status/spectadores em linha, chat expandido, painel de controles e links em duas colunas.",
+  "version": "1.4.30",
+  "name": "Total Live Chat 1.4.30",
+  "notes": "Interface: painel de controles em linhas compactas abaixo do chat e janela menor para o chat nao ocupar tanto espaco.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
