@@ -1,6 +1,6 @@
 {
-  "version": "1.4.27",
-  "name": "Total Live Chat 1.4.27",
-  "notes": "Chat de voz: filtro de palavras customizavel - botao Filtro para adicionar palavras que o bot NAO deve ler (texto continua no chat, apenas a fala e suprimida).",
+  "version": "1.4.28",
+  "name": "Total Live Chat 1.4.28",
+  "notes": "Interface reorganizada em abas: Chat | Conexoes | Visual - chat maior, controles agrupados, Twitch e canais juntos.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
