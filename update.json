@@ -1,6 +1,6 @@
 {
-  "version": "1.4.33",
-  "name": "Total Live Chat 1.4.33",
-  "notes": "Interface: caixa de chat 200px e janela 920x700 (nao corta os botoes de overlay/espectadores).",
+  "version": "1.4.34",
+  "name": "Total Live Chat 1.4.34",
+  "notes": "Interface: abas Chat/Conexoes/Visual com texto maior (16px negrito) e aba ativa em branco com texto preto.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
