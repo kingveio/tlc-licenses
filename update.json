@@ -1,6 +1,6 @@
 {
-  "version": "1.4.26",
-  "name": "Total Live Chat 1.4.26",
-  "notes": "Overlay: nome/plataforma da caixa do chat em maiusculas, fonte 1.0em, padding maior e mais destaque.",
+  "version": "1.4.27",
+  "name": "Total Live Chat 1.4.27",
+  "notes": "Chat de voz: filtro de palavras customizavel - botao Filtro para adicionar palavras que o bot NAO deve ler (texto continua no chat, apenas a fala e suprimida).",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
