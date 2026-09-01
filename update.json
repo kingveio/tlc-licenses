@@ -1,6 +1,6 @@
 {
-  "version": "1.4.28",
-  "name": "Total Live Chat 1.4.28",
-  "notes": "Interface reorganizada em abas: Chat | Conexoes | Visual - chat maior, controles agrupados, Twitch e canais juntos.",
+  "version": "1.4.29",
+  "name": "Total Live Chat 1.4.29",
+  "notes": "Interface: aba Chat redesenhada - status/spectadores em linha, chat expandido, painel de controles e links em duas colunas.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
