@@ -1,6 +1,6 @@
 {
-  "version": "1.4.34",
-  "name": "Total Live Chat 1.4.34",
-  "notes": "Interface: abas Chat/Conexoes/Visual com texto maior (16px negrito) e aba ativa em branco com texto preto.",
+  "version": "1.4.35",
+  "name": "Total Live Chat 1.4.35",
+  "notes": "Interface: texto preto nas abas Chat, Conexoes e Visual quando ativas.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
