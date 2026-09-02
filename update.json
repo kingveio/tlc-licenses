@@ -1,6 +1,6 @@
 {
-  "version": "1.4.36",
-  "name": "Total Live Chat 1.4.36",
-  "notes": "Interface: corrigida a cor do texto das abas Conexoes e Visual quando selecionadas.",
+  "version": "1.4.37",
+  "name": "Total Live Chat 1.4.37",
+  "notes": "Interface: rotulo do filtro de palavras mostra 'vazio' quando nao ha palavras.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
