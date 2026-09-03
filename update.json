@@ -1,6 +1,6 @@
 {
-  "version": "1.4.40",
-  "name": "Total Live Chat 1.4.40",
-  "notes": "Espectadores em colunas: nome da plataforma em cima, numero embaixo, separador | e Total (boneco + numero) dourado no final. GUI e overlay.",
+  "version": "1.4.41",
+  "name": "Total Live Chat 1.4.41",
+  "notes": "Espectadores: removido o nome da plataforma, agora mostra so o icone + numero, com Total (boneco dourado) no final.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
