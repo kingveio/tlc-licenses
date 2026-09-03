@@ -1,6 +1,6 @@
 {
-  "version": "1.4.38",
-  "name": "Total Live Chat 1.4.38",
-  "notes": "Interface: texto TOTAL do painel de espectadores substituido por icone de pessoa (boneco).",
+  "version": "1.4.39",
+  "name": "Total Live Chat 1.4.39",
+  "notes": "Overlay de espectadores: texto TOTAL substituido por icone de boneco, no mesmo tamanho dos icones das plataformas.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
