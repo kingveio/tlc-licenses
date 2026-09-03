@@ -1,6 +1,6 @@
 {
-  "version": "1.4.41",
-  "name": "Total Live Chat 1.4.41",
-  "notes": "Espectadores: removido o nome da plataforma, agora mostra so o icone + numero, com Total (boneco dourado) no final.",
+  "version": "1.4.42",
+  "name": "Total Live Chat 1.4.42",
+  "notes": "Espectadores: total final em coluna com rotulo Total em cima e boneco + numero lado a lado abaixo.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
