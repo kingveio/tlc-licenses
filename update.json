@@ -1,6 +1,6 @@
 {
-  "version": "1.4.42",
-  "name": "Total Live Chat 1.4.42",
-  "notes": "Espectadores: total final em coluna com rotulo Total em cima e boneco + numero lado a lado abaixo.",
+  "version": "1.4.43",
+  "name": "Total Live Chat 1.4.43",
+  "notes": "YouTube: agora detecta e le o chat de lives verticais (Shorts ao vivo), nao so lives horizontais.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
