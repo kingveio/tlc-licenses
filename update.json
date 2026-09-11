@@ -1,6 +1,6 @@
 {
-  "version": "1.4.44",
-  "name": "Total Live Chat 1.4.44",
-  "notes": "YouTube: contador de espectadores agora soma todas as lives ativas do canal (horizontal + vertical/Shorts simultaneas).",
+  "version": "1.4.45",
+  "name": "Total Live Chat 1.4.45",
+  "notes": "TikTok: botao Atualizar TikTokLive na aba Conexoes para atualizar a biblioteca sem precisar do terminal.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
