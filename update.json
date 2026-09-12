@@ -1,6 +1,6 @@
 {
-  "version": "1.4.45",
-  "name": "Total Live Chat 1.4.45",
-  "notes": "TikTokLive atualizado para v7.0.1. YouTube: soma espectadores de lives simultaneas (horizontal + vertical).",
+  "version": "1.4.46",
+  "name": "Total Live Chat 1.4.46",
+  "notes": "Auto-reload: overlays detectam quando o servidor volta e recarregam automaticamente, sem precisar atualizar manualmente no OBS.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
