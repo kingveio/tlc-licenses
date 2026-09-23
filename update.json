@@ -1,6 +1,6 @@
 {
-  "version": "1.4.46",
-  "name": "Total Live Chat 1.4.46",
-  "notes": "Auto-reload: overlays detectam quando o servidor volta e recarregam automaticamente, sem precisar atualizar manualmente no OBS.",
+  "version": "1.4.47",
+  "name": "Total Live Chat 1.4.47",
+  "notes": "Twitch: emotes agora aparecem como imagem no overlay (antes apareciam só como texto, ex.: SeemsGood). Corrigido envio do ID e URL da CDN da Twitch.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
