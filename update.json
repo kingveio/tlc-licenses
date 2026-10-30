@@ -1,6 +1,6 @@
 {
-  "version": "1.4.48",
-  "name": "Total Live Chat 1.4.48",
-  "notes": "Kick: chat voltou a conectar usando o novo realtime (Centrifugo) da Kick, com renovação automática do token de conexão e reconexão.\nTwitch: corrigida a desconexão por token expirado. O app agora valida o token, renova pelo refresh token e reconecta sozinho; conexão via TLS na porta 6697 com fallback para 6667.",
+  "version": "1.4.49",
+  "name": "Total Live Chat 1.4.49",
+  "notes": "Espectadores: contador não trata plataforma offline como online com zero; agora sinaliza ausência quando não há live.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
