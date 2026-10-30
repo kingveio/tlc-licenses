@@ -1,6 +1,6 @@
 {
   "version": "1.4.49",
   "name": "Total Live Chat 1.4.49",
-  "notes": "Espectadores: contador não trata plataforma offline como online com zero; agora sinaliza ausência quando não há live.",
+  "notes": "Espectadores: plataformas ligadas nos switches aparecem ativas imediatamente na GUI e no overlay; plataformas desligadas ficam ocultas no overlay e mostram `—` no painel.\nCorreções gerais: salvamento do filtro de palavras, diagnóstico da Twitch/YouTube (Testar tudo), preservação da cor do tema no overlay, renderização de múltiplos emotes, alinhamento de emotes na Twitch, reconexão no YouTube e janela de ativação.",
   "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe"
 }
