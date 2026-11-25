@@ -1,6 +1,6 @@
 {
-  "version": "1.4.53",
-  "name": "Total Live Chat 1.4.53",
-  "notes": "Atualização: o instalador agora fecha o aplicativo automaticamente, sem exigir que você encerre o processo no Gerenciador de Tarefas.",
-  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.53/TotalLiveChat_Instalador.exe"
+  "version": "1.4.54",
+  "name": "Total Live Chat 1.4.54",
+  "notes": "Atualização: quando houver versão nova, a janela de atualização aparece antes da tela de login/ativação. O instalador pode ser baixado direto pelo app, sem precisar abrir o navegador.",
+  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.54/TotalLiveChat_Instalador.exe"
 }
