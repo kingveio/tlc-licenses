@@ -1,6 +1,6 @@
 {
-  "version": "1.4.51",
-  "name": "Total Live Chat 1.4.51",
-  "notes": "Contadores de espectador corrigidos (YouTube e TikTok); login da Twitch reparado",
-  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.51/TotalLiveChat_Instalador.exe"
+  "version": "1.4.52",
+  "name": "Total Live Chat 1.4.52",
+  "notes": "Ativação de licença: corrigido o erro \"Não foi possível conectar ao servidor de licenças\" que impedia a validação da chave em alguns computadores.",
+  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.52/TotalLiveChat_Instalador.exe"
 }
