@@ -1,6 +1,6 @@
 {
-  "version": "1.4.55",
-  "name": "Total Live Chat 1.4.55",
-  "notes": "Ativação: mais formas de consultar a lista de licenças e mensagem de erro com o motivo da falha.",
-  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.55/TotalLiveChat_Instalador.exe"
+  "version": "1.4.56",
+  "name": "Total Live Chat 1.4.56",
+  "notes": "Correção: o período de teste de 3 dias voltou a funcionar para novos usuários.",
+  "download_url": "https://github.com/kingveio/tlc-licenses/releases/download/v1.4.56/TotalLiveChat_Instalador.exe"
 }
