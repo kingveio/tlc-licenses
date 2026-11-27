@@ -1,6 +1,6 @@
 {
-  "version": "1.4.57",
-  "name": "Total Live Chat 1.4.57",
-  "notes": "Ativação: cada licença passa a funcionar em um computador por vez, com verificação online ao abrir o programa. Se trocar de PC, solicite uma nova autorização.",
-  "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe?v=1.4.57"
+  "version": "1.4.58",
+  "name": "Total Live Chat 1.4.58",
+  "notes": "Ativação: back-end Cloudflare Worker ativo (um PC por licença de verdade), com fallback assinado do GitHub se o servidor estiver fora.\nAtivação: ao digitar nome, e-mail e chave, o app registra o código do PC automaticamente no servidor — não é mais preciso enviar o código pelo chat. O desenvolvedor autoriza pela fila com `autorizar_pc.py --pendentes`.\nAtualização: versão 1.4.58 necessária para receber o back-end; clientes já ativados continuam funcionando sem precisar reenviar o código.",
+  "download_url": "https://raw.githubusercontent.com/kingveio/tlc-licenses/main/TotalLiveChat_Instalador.exe?v=1.4.58"
 }
